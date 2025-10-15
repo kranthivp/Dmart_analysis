@@ -43,16 +43,20 @@ Step 5:-  To check if there are any null values in the dataframe.
 
 Step 6:-  Ensure that data types are correctly set for each column, if not set the appropriate data type for the required columns.
 
-Step 7:-  Streamlit installation 
+Step 7:-  Join the DataFrames on relevant keys
 
-          # installing streamlit
-            !pip install streamlit
+     df=sales_df.join(customer_df,["Customer ID"]) \
+        .join(product_df,["Product ID"]) \
+        .show(2)
 
-Step 8:-  Localtunnel installation 
+Step 8:-  Streamlit installation 
 
-          # localtunnel installation
-            !npm install -g localtunnel
+     !pip install streamlit
+
+Step 9:-  Localtunnel installation 
+
+     !npm install -g localtunnel
             
-Step 9:-  Sql queries are executed and output is shown on streamlit
+Step 10:-  Sql queries are executed and output is shown on streamlit
 
 

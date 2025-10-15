@@ -3,7 +3,7 @@
 
 ## Description
 
-Dmart is an online departmental store, which has a wide range of collection. It delivers the orders all over US through various shipping modes. A detailed analysis would help them to expand their business and improve their sales by attracting customers through various offers and dicounts. Understanding customers choices and interests would definitely improve their sales.
+Dmart is an online departmental store, which has a wide range of collection. It delivers the orders all over US through various shipping modes. A detailed analysis would help them to expand their business and improve their sales by attracting customers through various offers and discounts. Understanding customers choices and interests would definitely improve their sales.
 
 ## Problem Statement
 
